@@ -1,0 +1,18 @@
+# Node files to ignore`
+**/node_modules/
+**/package-lock.json
+
+# Python compiled files
+**/__pycache__/
+
+# IDE properties files
+**/.vscode/
+**/.idea/
+
+# Virtual Environment files
+**/*env/
+
+# other exclusions
+**/*.dnc
+
+
